@@ -1,0 +1,37 @@
+.box1{
+    background-color: coral;
+    width: 20%;
+    height: 900px;
+    margin: 2.5% 2%;
+}
+
+.box2{
+    background-color: sandybrown;
+    width: 20%;
+    height: 900px;
+    margin: 2.5% 2%;
+}
+
+.box3{
+    background-color: burlywood;
+    width: 20%;
+    height: 900px;
+    margin: 2.5% 2%;
+}
+
+.box4{
+    background-color: salmon; 
+    width: 20%;
+    height: 900px;
+    margin: 2.5% 2%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 400px;
+    margin: 0em 2em;
+}
